@@ -8,6 +8,10 @@ if status is-interactive
 
     #alias utils
     alias g git
+    #  git config --global alias.co checkout
+    #  git config --global alias.br branch
+    #  git config --global alias.ci commit
+    #  git config --global alias.st status
     alias cl clear
     alias tmux "tmux -u"
     command -qv nvim && alias vim nvim
