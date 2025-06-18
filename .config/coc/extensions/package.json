@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coc-lists": ">=1.5.1",
+    "coc-db": ">=0.0.44",
+    "coc-explorer": ">=0.26.6",
+    "coc-flutter": ">=1.9.10"
+  },
+  "lastUpdate": 1689902040858
+}
